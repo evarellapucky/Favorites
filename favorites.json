@@ -1,1039 +1,1041 @@
-{
-  "Introduction": [
-    {
-      "week": "Semaine 1",
-      "days": [
-        {
-          "day": "Lundi",
-          "ToRender": true,
-          "ToCorrect": false,
-          "resources": [
-            {
-              "id": "intro-1-1-1",
-              "title": "Introduction à React",
-              "content": "Comprendre les bases de React."
-            },
-            {
-              "id": "intro-1-1-2",
-              "title": "Composants en React",
-              "content": "Créer et utiliser des composants."
-            },
-            {
-              "id": "intro-1-1-3",
-              "title": "Props en React",
-              "content": "Passer des données entre composants."
-            },
-            {
-              "id": "intro-1-1-4",
-              "title": "Gestion des états",
-              "content": "Gérer les états dans un composant React."
-            },
-            {
-              "id": "intro-1-1-5",
-              "title": "Hooks en React",
-              "content": "Utiliser les hooks pour gérer les états et les effets."
-            },
-            {
-              "id": "intro-1-1-6",
-              "title": "Context API",
-              "content": "Gérer l'état global avec Context API."
-            },
-            {
-              "id": "intro-1-1-7",
-              "title": "Routing en React",
-              "content": "Configurer le routing avec react-router."
-            },
-            {
-              "id": "intro-1-1-8",
-              "title": "Testing en React",
-              "content": "Écrire des tests pour les composants React."
-            },
-            {
-              "id": "intro-1-1-9",
-              "title": "Optimisation des performances",
-              "content": "Optimiser les performances des applications React."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "ToCorrect": true,
-          "ToRender": false,
-          "resources": [
-            {
-              "id": "intro-1-2-1",
-              "title": "Gestion des états",
-              "content": "Gérer les états dans un composant React."
-            },
-            {
-              "id": "intro-1-2-2",
-              "title": "Props en React",
-              "content": "Passer des données entre composants."
-            },
-            {
-              "id": "intro-1-2-3",
-              "title": "Hooks en React",
-              "content": "Utiliser les hooks pour gérer les états et les effets."
-            },
-            {
-              "id": "intro-1-2-4",
-              "title": "Context API",
-              "content": "Gérer l'état global avec Context API."
-            },
-            {
-              "id": "intro-1-2-5",
-              "title": "Routing en React",
-              "content": "Configurer le routing avec react-router."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "intro-1-3-1",
-              "title": "Hooks en React",
-              "content": "Utiliser les hooks pour gérer les états et les effets."
-            },
-            {
-              "id": "intro-1-3-2",
-              "title": "Effets de bord",
-              "content": "Comprendre l'utilisation de useEffect."
-            },
-            {
-              "id": "intro-1-3-3",
-              "title": "Optimisation des performances",
-              "content": "Optimiser les performances des applications React."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "intro-1-4-1",
-              "title": "Context API",
-              "content": "Gérer l'état global avec Context API."
-            },
-            {
-              "id": "intro-1-4-2",
-              "title": "Routing en React",
-              "content": "Configurer le routing avec react-router."
-            },
-            {
-              "id": "intro-1-4-3",
-              "title": "Testing en React",
-              "content": "Écrire des tests pour les composants React."
-            },
-            {
-              "id": "intro-1-4-4",
-              "title": "Optimisation des performances",
-              "content": "Optimiser les performances des applications React."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "intro-1-5-1",
-              "title": "Testing en React",
-              "content": "Écrire des tests pour les composants React."
-            },
-            {
-              "id": "intro-1-5-2",
-              "title": "Optimisation des performances",
-              "content": "Optimiser les performances des applications React."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "week": "Semaine 2",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "intro-2-1-1",
-              "title": "Introduction à Redux",
-              "content": "Comprendre les concepts de Redux."
-            },
-            {
-              "id": "intro-2-1-2",
-              "title": "Actions et Reducers",
-              "content": "Utiliser les actions et reducers en Redux."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "intro-2-2-1",
-              "title": "Middleware en Redux",
-              "content": "Utiliser les middleware comme Redux Thunk."
-            },
-            {
-              "id": "intro-2-2-2",
-              "title": "Connexion Redux",
-              "content": "Connecter Redux avec les composants React."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "intro-2-3-1",
-              "title": "Introduction à TypeScript",
-              "content": "Comprendre les bases de TypeScript."
-            },
-            {
-              "id": "intro-2-3-2",
-              "title": "Types en TypeScript",
-              "content": "Définir et utiliser les types en TypeScript."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "intro-2-4-1",
-              "title": "Interfaces et Types",
-              "content": "Utiliser les interfaces et types en TypeScript."
-            },
-            {
-              "id": "intro-2-4-2",
-              "title": "Types génériques",
-              "content": "Créer des types génériques en TypeScript."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "intro-2-5-1",
-              "title": "Introduction à Next.js",
-              "content": "Découvrir le framework Next.js."
-            },
-            {
-              "id": "intro-2-5-2",
-              "title": "Pages et Routing",
-              "content": "Créer des pages et configurer le routing en Next.js."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "week": "Semaine 3",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "intro-3-1-1",
-              "title": "Gestion des erreurs",
-              "content": "Gérer les erreurs dans les applications React."
-            },
-            {
-              "id": "intro-3-1-2",
-              "title": "Utilisation de try/catch",
-              "content": "Utiliser try/catch pour capturer les erreurs."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "intro-3-2-1",
-              "title": "Optimisation des performances en Next.js",
-              "content": "Optimiser les performances des applications Next.js."
-            },
-            {
-              "id": "intro-3-2-2",
-              "title": "Déploiement avec Vercel",
-              "content": "Déployer des applications Next.js sur Vercel."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "intro-3-3-1",
-              "title": "Gestion de l'état avec Recoil",
-              "content": "Utiliser Recoil pour la gestion d'état."
-            },
-            {
-              "id": "intro-3-3-2",
-              "title": "Atoms et Selectors",
-              "content": "Créer et utiliser des atoms et selectors avec Recoil."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "intro-3-4-1",
-              "title": "Introduction à GraphQL",
-              "content": "Comprendre les concepts de GraphQL."
-            },
-            {
-              "id": "intro-3-4-2",
-              "title": "Création de requêtes GraphQL",
-              "content": "Écrire des requêtes et mutations GraphQL."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "intro-3-5-1",
-              "title": "Intégration de GraphQL avec React",
-              "content": "Utiliser Apollo Client pour intégrer GraphQL avec React."
-            },
-            {
-              "id": "intro-3-5-2",
-              "title": "Caching avec Apollo",
-              "content": "Gérer le caching des données avec Apollo Client."
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "Fullstack": [
-    {
-      "week": "Semaine 1",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "fs-1-1-1",
-              "title": "Introduction au développement Fullstack",
-              "content": "Comprendre les concepts de base du développement Fullstack."
-            },
-            {
-              "id": "fs-1-1-2",
-              "title": "Environnement de développement",
-              "content": "Configurer un environnement de développement complet."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "fs-1-2-1",
-              "title": "HTML & CSS",
-              "content": "Créer des interfaces utilisateur avec HTML & CSS."
-            },
-            {
-              "id": "fs-1-2-2",
-              "title": "Flexbox et Grid",
-              "content": "Utiliser Flexbox et Grid pour des mises en page responsives."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "fs-1-3-1",
-              "title": "JavaScript Fondamentaux",
-              "content": "Apprendre les bases du JavaScript."
-            },
-            {
-              "id": "fs-1-3-2",
-              "title": "DOM Manipulation",
-              "content": "Interagir avec le DOM en JavaScript."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "fs-1-4-1",
-              "title": "Node.js Introduction",
-              "content": "Comprendre les bases de Node.js."
-            },
-            {
-              "id": "fs-1-4-2",
-              "title": "Création d'un serveur HTTP",
-              "content": "Créer un serveur simple avec Node.js."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "fs-1-5-1",
-              "title": "Express.js",
-              "content": "Utiliser Express.js pour gérer les requêtes HTTP."
-            },
-            {
-              "id": "fs-1-5-2",
-              "title": "Middleware en Express",
-              "content": "Comprendre le rôle des middleware en Express.js."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "week": "Semaine 2",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "fs-2-1-1",
-              "title": "Base de données relationnelle",
-              "content": "Introduction aux bases de données relationnelles."
-            },
-            {
-              "id": "fs-2-1-2",
-              "title": "SQL",
-              "content": "Écrire des requêtes SQL de base."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "fs-2-2-1",
-              "title": "ORM avec Sequelize",
-              "content": "Utiliser Sequelize pour interagir avec une base de données."
-            },
-            {
-              "id": "fs-2-2-2",
-              "title": "Migrations",
-              "content": "Gérer les migrations de base de données avec Sequelize."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "fs-2-3-1",
-              "title": "Authentification",
-              "content": "Mettre en place une authentification utilisateur."
-            },
-            {
-              "id": "fs-2-3-2",
-              "title": "JWT",
-              "content": "Utiliser JWT pour la gestion des sessions."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "fs-2-4-1",
-              "title": "React Avancé",
-              "content": "Approfondir les connaissances en React."
-            },
-            {
-              "id": "fs-2-4-2",
-              "title": "State Management avec Redux",
-              "content": "Gérer le state global avec Redux."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "fs-2-5-1",
-              "title": "Tests et Débogage",
-              "content": "Écrire des tests pour les applications Fullstack."
-            },
-            {
-              "id": "fs-2-5-2",
-              "title": "Débogage avancé",
-              "content": "Techniques avancées de débogage."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "week": "Semaine 3",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "fs-3-1-1",
-              "title": "Introduction à Docker",
-              "content": "Découvrir Docker pour la conteneurisation."
-            },
-            {
-              "id": "fs-3-1-2",
-              "title": "Création de Dockerfile",
-              "content": "Écrire des Dockerfile pour vos applications."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "fs-3-2-1",
-              "title": "Orchestration avec Docker Compose",
-              "content": "Utiliser Docker Compose pour orchestrer plusieurs conteneurs."
-            },
-            {
-              "id": "fs-3-2-2",
-              "title": "Déploiement continu",
-              "content": "Configurer un pipeline de déploiement continu avec CI/CD."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "fs-3-3-1",
-              "title": "GraphQL avancé",
-              "content": "Explorer les concepts avancés de GraphQL."
-            },
-            {
-              "id": "fs-3-3-2",
-              "title": "API REST vs GraphQL",
-              "content": "Comparer les approches REST et GraphQL."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "fs-3-4-1",
-              "title": "Sécurité des API",
-              "content": "Implémenter des mesures de sécurité dans les API."
-            },
-            {
-              "id": "fs-3-4-2",
-              "title": "Rate Limiting et CORS",
-              "content": "Configurer des règles de Rate Limiting et gérer CORS."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "fs-3-5-1",
-              "title": "Projet final Fullstack",
-              "content": "Développer un projet Fullstack complet."
-            },
-            {
-              "id": "fs-3-5-2",
-              "title": "Présentation du projet",
-              "content": "Présenter et documenter le projet développé."
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "Dev": [
-    {
-      "week": "Semaine 1",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "dev-1-1-1",
-              "title": "Fondamentaux du Développement",
-              "content": "Comprendre les principes de base du développement logiciel."
-            },
-            {
-              "id": "dev-1-1-2",
-              "title": "Outils du Développeur",
-              "content": "Introduction aux principaux outils utilisés par les développeurs."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "dev-1-2-1",
-              "title": "Versioning avec Git",
-              "content": "Utiliser Git pour le contrôle de version."
-            },
-            {
-              "id": "dev-1-2-2",
-              "title": "GitHub et GitLab",
-              "content": "Collaborer avec d'autres développeurs sur GitHub et GitLab."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "dev-1-3-1",
-              "title": "Programmation Orientée Objet",
-              "content": "Apprendre les concepts de la POO."
-            },
-            {
-              "id": "dev-1-3-2",
-              "title": "Design Patterns",
-              "content": "Explorer les principaux design patterns en développement."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "dev-1-4-1",
-              "title": "Refactoring",
-              "content": "Techniques pour améliorer le code existant."
-            },
-            {
-              "id": "dev-1-4-2",
-              "title": "Code Review",
-              "content": "Comprendre l'importance des revues de code."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "dev-1-5-1",
-              "title": "Test-Driven Development (TDD)",
-              "content": "Introduction au développement piloté par les tests."
-            },
-            {
-              "id": "dev-1-5-2",
-              "title": "Tests Unitaires",
-              "content": "Écrire des tests unitaires efficaces."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "week": "Semaine 2",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "dev-2-1-1",
-              "title": "Bases de données NoSQL",
-              "content": "Introduction aux bases de données NoSQL."
-            },
-            {
-              "id": "dev-2-1-2",
-              "title": "MongoDB",
-              "content": "Utiliser MongoDB pour stocker des données non structurées."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "dev-2-2-1",
-              "title": "API RESTful",
-              "content": "Créer et consommer des API RESTful."
-            },
-            {
-              "id": "dev-2-2-2",
-              "title": "Sécurisation des API",
-              "content": "Implémenter des mesures de sécurité pour les API."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "dev-2-3-1",
-              "title": "Microservices",
-              "content": "Introduction aux architectures microservices."
-            },
-            {
-              "id": "dev-2-3-2",
-              "title": "Communication entre microservices",
-              "content": "Mettre en place la communication entre microservices."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "dev-2-4-1",
-              "title": "CI/CD",
-              "content": "Configurer des pipelines d'intégration et de déploiement continus."
-            },
-            {
-              "id": "dev-2-4-2",
-              "title": "Déploiement sur le Cloud",
-              "content": "Déployer des applications sur les services cloud comme AWS, GCP, etc."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "dev-2-5-1",
-              "title": "Monitorage et Logging",
-              "content": "Mettre en place des systèmes de monitorage et de logging."
-            },
-            {
-              "id": "dev-2-5-2",
-              "title": "Analyse des performances",
-              "content": "Analyser et améliorer les performances des applications."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "week": "Semaine 3",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "dev-3-1-1",
-              "title": "Introduction à DevOps",
-              "content": "Découvrir les principes et pratiques DevOps."
-            },
-            {
-              "id": "dev-3-1-2",
-              "title": "Infrastructure as Code",
-              "content": "Utiliser des outils comme Terraform pour gérer l'infrastructure."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "dev-3-2-1",
-              "title": "Automatisation des Tests",
-              "content": "Automatiser les tests pour une meilleure qualité du code."
-            },
-            {
-              "id": "dev-3-2-2",
-              "title": "Tests de Performance",
-              "content": "Effectuer des tests de performance sur vos applications."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "dev-3-3-1",
-              "title": "Gestion des Événements en Temps Réel",
-              "content": "Utiliser WebSockets et autres technologies pour les événements en temps réel."
-            },
-            {
-              "id": "dev-3-3-2",
-              "title": "Message Brokers",
-              "content": "Intégrer des systèmes comme RabbitMQ pour la gestion des messages."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "dev-3-4-1",
-              "title": "Conteneurisation avec Docker",
-              "content": "Conteneuriser les applications avec Docker."
-            },
-            {
-              "id": "dev-3-4-2",
-              "title": "Orchestration avec Kubernetes",
-              "content": "Orchestrer les conteneurs avec Kubernetes."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "dev-3-5-1",
-              "title": "Projet Final Dev",
-              "content": "Développer et déployer une application complète en suivant les pratiques apprises."
-            },
-            {
-              "id": "dev-3-5-2",
-              "title": "Présentation du Projet",
-              "content": "Préparer et présenter le projet final."
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "DevPlus": [
-    {
-      "week": "Semaine 1",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "devplus-1-1-1",
-              "title": "Approfondissement des concepts Dev",
-              "content": "Revue des concepts avancés abordés dans le module Dev."
-            },
-            {
-              "id": "devplus-1-1-2",
-              "title": "Architecture Logicielle",
-              "content": "Concevoir des architectures logicielles robustes."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "devplus-1-2-1",
-              "title": "Scalabilité",
-              "content": "Concevoir des applications scalables."
-            },
-            {
-              "id": "devplus-1-2-2",
-              "title": "Caching",
-              "content": "Utiliser des stratégies de caching pour améliorer les performances."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "devplus-1-3-1",
-              "title": "Sécurité Avancée",
-              "content": "Implémenter des mesures de sécurité avancées dans les applications."
-            },
-            {
-              "id": "devplus-1-3-2",
-              "title": "Cryptographie",
-              "content": "Utiliser des techniques de cryptographie pour sécuriser les données."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "devplus-1-4-1",
-              "title": "Gestion des Événements Complexes",
-              "content": "Mettre en place des architectures événementielles."
-            },
-            {
-              "id": "devplus-1-4-2",
-              "title": "CQRS et Event Sourcing",
-              "content": "Explorer les modèles CQRS et Event Sourcing."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "devplus-1-5-1",
-              "title": "Optimisation des Performances",
-              "content": "Techniques avancées pour optimiser les performances des applications."
-            },
-            {
-              "id": "devplus-1-5-2",
-              "title": "Profilage et Monitoring",
-              "content": "Utiliser des outils de profilage et de monitoring pour diagnostiquer les problèmes."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "week": "Semaine 2",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "devplus-2-1-1",
-              "title": "Microservices Avancés",
-              "content": "Développer des microservices avancés et les déployer à grande échelle."
-            },
-            {
-              "id": "devplus-2-1-2",
-              "title": "Gestion de la Résilience",
-              "content": "Gérer la résilience et la tolérance aux pannes dans les microservices."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "devplus-2-2-1",
-              "title": "Orchestration avec Kubernetes Avancé",
-              "content": "Orchestrer des microservices avec Kubernetes."
-            },
-            {
-              "id": "devplus-2-2-2",
-              "title": "Service Mesh",
-              "content": "Gérer les communications entre microservices avec un service mesh."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "devplus-2-3-1",
-              "title": "Sécurité dans Kubernetes",
-              "content": "Apprendre à sécuriser les déploiements Kubernetes."
-            },
-            {
-              "id": "devplus-2-3-2",
-              "title": "Audit et Conformité",
-              "content": "Mettre en place des stratégies d'audit et de conformité."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "devplus-2-4-1",
-              "title": "Observabilité",
-              "content": "Implémenter des systèmes d'observabilité pour surveiller les microservices."
-            },
-            {
-              "id": "devplus-2-4-2",
-              "title": "Logging et Tracing",
-              "content": "Mettre en place du logging et du tracing distribués."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "devplus-2-5-1",
-              "title": "Projet Final Dev++",
-              "content": "Développer un projet avancé en utilisant les concepts appris."
-            },
-            {
-              "id": "devplus-2-5-2",
-              "title": "Présentation du Projet",
-              "content": "Présenter le projet final et ses défis techniques."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "week": "Semaine 3",
-      "days": [
-        {
-          "day": "Lundi",
-          "resources": [
-            {
-              "id": "devplus-3-1-1",
-              "title": "Optimisation des Bases de Données",
-              "content": "Techniques avancées pour optimiser les performances des bases de données."
-            },
-            {
-              "id": "devplus-3-1-2",
-              "title": "Partitionnement et Sharding",
-              "content": "Apprendre le partitionnement et le sharding des bases de données."
-            }
-          ]
-        },
-        {
-          "day": "Mardi",
-          "resources": [
-            {
-              "id": "devplus-3-2-1",
-              "title": "Data Warehousing",
-              "content": "Concevoir des entrepôts de données pour le Big Data."
-            },
-            {
-              "id": "devplus-3-2-2",
-              "title": "ETL Avancé",
-              "content": "Mettre en place des processus ETL efficaces et optimisés."
-            }
-          ]
-        },
-        {
-          "day": "Mercredi",
-          "resources": [
-            {
-              "id": "devplus-3-3-1",
-              "title": "Big Data",
-              "content": "Introduction aux concepts et outils du Big Data."
-            },
-            {
-              "id": "devplus-3-3-2",
-              "title": "Traitement Distribué",
-              "content": "Utiliser des frameworks comme Apache Spark pour le traitement distribué."
-            }
-          ]
-        },
-        {
-          "day": "Jeudi",
-          "resources": [
-            {
-              "id": "devplus-3-4-1",
-              "title": "Machine Learning Introduction",
-              "content": "Comprendre les bases du Machine Learning."
-            },
-            {
-              "id": "devplus-3-4-2",
-              "title": "Implémentation de Modèles",
-              "content": "Développer et entraîner des modèles de Machine Learning."
-            }
-          ]
-        },
-        {
-          "day": "Vendredi",
-          "resources": [
-            {
-              "id": "devplus-3-5-1",
-              "title": "MLOps",
-              "content": "Automatiser le déploiement et la gestion des modèles de Machine Learning."
-            },
-            {
-              "id": "devplus-3-5-2",
-              "title": "Présentation du Projet Final",
-              "content": "Présenter le projet final intégrant tous les concepts Dev++."
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+{ 
+  "resources": {
+    "Introduction": [
+      {
+        "week": "Semaine 1",
+        "days": [
+          {
+            "day": "Lundi",
+            "ToRender": true,
+            "ToCorrect": false,
+            "resources": [
+              {
+                "id": "intro-1-1-1",
+                "title": "Introduction à React",
+                "content": "Comprendre les bases de React."
+              },
+              {
+                "id": "intro-1-1-2",
+                "title": "Composants en React",
+                "content": "Créer et utiliser des composants."
+              },
+              {
+                "id": "intro-1-1-3",
+                "title": "Props en React",
+                "content": "Passer des données entre composants."
+              },
+              {
+                "id": "intro-1-1-4",
+                "title": "Gestion des états",
+                "content": "Gérer les états dans un composant React."
+              },
+              {
+                "id": "intro-1-1-5",
+                "title": "Hooks en React",
+                "content": "Utiliser les hooks pour gérer les états et les effets."
+              },
+              {
+                "id": "intro-1-1-6",
+                "title": "Context API",
+                "content": "Gérer l'état global avec Context API."
+              },
+              {
+                "id": "intro-1-1-7",
+                "title": "Routing en React",
+                "content": "Configurer le routing avec react-router."
+              },
+              {
+                "id": "intro-1-1-8",
+                "title": "Testing en React",
+                "content": "Écrire des tests pour les composants React."
+              },
+              {
+                "id": "intro-1-1-9",
+                "title": "Optimisation des performances",
+                "content": "Optimiser les performances des applications React."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "ToCorrect": true,
+            "ToRender": false,
+            "resources": [
+              {
+                "id": "intro-1-2-1",
+                "title": "Gestion des états",
+                "content": "Gérer les états dans un composant React."
+              },
+              {
+                "id": "intro-1-2-2",
+                "title": "Props en React",
+                "content": "Passer des données entre composants."
+              },
+              {
+                "id": "intro-1-2-3",
+                "title": "Hooks en React",
+                "content": "Utiliser les hooks pour gérer les états et les effets."
+              },
+              {
+                "id": "intro-1-2-4",
+                "title": "Context API",
+                "content": "Gérer l'état global avec Context API."
+              },
+              {
+                "id": "intro-1-2-5",
+                "title": "Routing en React",
+                "content": "Configurer le routing avec react-router."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "intro-1-3-1",
+                "title": "Hooks en React",
+                "content": "Utiliser les hooks pour gérer les états et les effets."
+              },
+              {
+                "id": "intro-1-3-2",
+                "title": "Effets de bord",
+                "content": "Comprendre l'utilisation de useEffect."
+              },
+              {
+                "id": "intro-1-3-3",
+                "title": "Optimisation des performances",
+                "content": "Optimiser les performances des applications React."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "intro-1-4-1",
+                "title": "Context API",
+                "content": "Gérer l'état global avec Context API."
+              },
+              {
+                "id": "intro-1-4-2",
+                "title": "Routing en React",
+                "content": "Configurer le routing avec react-router."
+              },
+              {
+                "id": "intro-1-4-3",
+                "title": "Testing en React",
+                "content": "Écrire des tests pour les composants React."
+              },
+              {
+                "id": "intro-1-4-4",
+                "title": "Optimisation des performances",
+                "content": "Optimiser les performances des applications React."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "intro-1-5-1",
+                "title": "Testing en React",
+                "content": "Écrire des tests pour les composants React."
+              },
+              {
+                "id": "intro-1-5-2",
+                "title": "Optimisation des performances",
+                "content": "Optimiser les performances des applications React."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 2",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "intro-2-1-1",
+                "title": "Introduction à Redux",
+                "content": "Comprendre les concepts de Redux."
+              },
+              {
+                "id": "intro-2-1-2",
+                "title": "Actions et Reducers",
+                "content": "Utiliser les actions et reducers en Redux."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "intro-2-2-1",
+                "title": "Middleware en Redux",
+                "content": "Utiliser les middleware comme Redux Thunk."
+              },
+              {
+                "id": "intro-2-2-2",
+                "title": "Connexion Redux",
+                "content": "Connecter Redux avec les composants React."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "intro-2-3-1",
+                "title": "Introduction à TypeScript",
+                "content": "Comprendre les bases de TypeScript."
+              },
+              {
+                "id": "intro-2-3-2",
+                "title": "Types en TypeScript",
+                "content": "Définir et utiliser les types en TypeScript."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "intro-2-4-1",
+                "title": "Interfaces et Types",
+                "content": "Utiliser les interfaces et types en TypeScript."
+              },
+              {
+                "id": "intro-2-4-2",
+                "title": "Types génériques",
+                "content": "Créer des types génériques en TypeScript."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "intro-2-5-1",
+                "title": "Introduction à Next.js",
+                "content": "Découvrir le framework Next.js."
+              },
+              {
+                "id": "intro-2-5-2",
+                "title": "Pages et Routing",
+                "content": "Créer des pages et configurer le routing en Next.js."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 3",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "intro-3-1-1",
+                "title": "Gestion des erreurs",
+                "content": "Gérer les erreurs dans les applications React."
+              },
+              {
+                "id": "intro-3-1-2",
+                "title": "Utilisation de try/catch",
+                "content": "Utiliser try/catch pour capturer les erreurs."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "intro-3-2-1",
+                "title": "Optimisation des performances en Next.js",
+                "content": "Optimiser les performances des applications Next.js."
+              },
+              {
+                "id": "intro-3-2-2",
+                "title": "Déploiement avec Vercel",
+                "content": "Déployer des applications Next.js sur Vercel."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "intro-3-3-1",
+                "title": "Gestion de l'état avec Recoil",
+                "content": "Utiliser Recoil pour la gestion d'état."
+              },
+              {
+                "id": "intro-3-3-2",
+                "title": "Atoms et Selectors",
+                "content": "Créer et utiliser des atoms et selectors avec Recoil."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "intro-3-4-1",
+                "title": "Introduction à GraphQL",
+                "content": "Comprendre les concepts de GraphQL."
+              },
+              {
+                "id": "intro-3-4-2",
+                "title": "Création de requêtes GraphQL",
+                "content": "Écrire des requêtes et mutations GraphQL."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "intro-3-5-1",
+                "title": "Intégration de GraphQL avec React",
+                "content": "Utiliser Apollo Client pour intégrer GraphQL avec React."
+              },
+              {
+                "id": "intro-3-5-2",
+                "title": "Caching avec Apollo",
+                "content": "Gérer le caching des données avec Apollo Client."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Fullstack": [
+      {
+        "week": "Semaine 1",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "fs-1-1-1",
+                "title": "Introduction au développement Fullstack",
+                "content": "Comprendre les concepts de base du développement Fullstack."
+              },
+              {
+                "id": "fs-1-1-2",
+                "title": "Environnement de développement",
+                "content": "Configurer un environnement de développement complet."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "fs-1-2-1",
+                "title": "HTML & CSS",
+                "content": "Créer des interfaces utilisateur avec HTML & CSS."
+              },
+              {
+                "id": "fs-1-2-2",
+                "title": "Flexbox et Grid",
+                "content": "Utiliser Flexbox et Grid pour des mises en page responsives."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "fs-1-3-1",
+                "title": "JavaScript Fondamentaux",
+                "content": "Apprendre les bases du JavaScript."
+              },
+              {
+                "id": "fs-1-3-2",
+                "title": "DOM Manipulation",
+                "content": "Interagir avec le DOM en JavaScript."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "fs-1-4-1",
+                "title": "Node.js Introduction",
+                "content": "Comprendre les bases de Node.js."
+              },
+              {
+                "id": "fs-1-4-2",
+                "title": "Création d'un serveur HTTP",
+                "content": "Créer un serveur simple avec Node.js."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "fs-1-5-1",
+                "title": "Express.js",
+                "content": "Utiliser Express.js pour gérer les requêtes HTTP."
+              },
+              {
+                "id": "fs-1-5-2",
+                "title": "Middleware en Express",
+                "content": "Comprendre le rôle des middleware en Express.js."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 2",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "fs-2-1-1",
+                "title": "Base de données relationnelle",
+                "content": "Introduction aux bases de données relationnelles."
+              },
+              {
+                "id": "fs-2-1-2",
+                "title": "SQL",
+                "content": "Écrire des requêtes SQL de base."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "fs-2-2-1",
+                "title": "ORM avec Sequelize",
+                "content": "Utiliser Sequelize pour interagir avec une base de données."
+              },
+              {
+                "id": "fs-2-2-2",
+                "title": "Migrations",
+                "content": "Gérer les migrations de base de données avec Sequelize."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "fs-2-3-1",
+                "title": "Authentification",
+                "content": "Mettre en place une authentification utilisateur."
+              },
+              {
+                "id": "fs-2-3-2",
+                "title": "JWT",
+                "content": "Utiliser JWT pour la gestion des sessions."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "fs-2-4-1",
+                "title": "React Avancé",
+                "content": "Approfondir les connaissances en React."
+              },
+              {
+                "id": "fs-2-4-2",
+                "title": "State Management avec Redux",
+                "content": "Gérer le state global avec Redux."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "fs-2-5-1",
+                "title": "Tests et Débogage",
+                "content": "Écrire des tests pour les applications Fullstack."
+              },
+              {
+                "id": "fs-2-5-2",
+                "title": "Débogage avancé",
+                "content": "Techniques avancées de débogage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 3",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "fs-3-1-1",
+                "title": "Introduction à Docker",
+                "content": "Découvrir Docker pour la conteneurisation."
+              },
+              {
+                "id": "fs-3-1-2",
+                "title": "Création de Dockerfile",
+                "content": "Écrire des Dockerfile pour vos applications."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "fs-3-2-1",
+                "title": "Orchestration avec Docker Compose",
+                "content": "Utiliser Docker Compose pour orchestrer plusieurs conteneurs."
+              },
+              {
+                "id": "fs-3-2-2",
+                "title": "Déploiement continu",
+                "content": "Configurer un pipeline de déploiement continu avec CI/CD."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "fs-3-3-1",
+                "title": "GraphQL avancé",
+                "content": "Explorer les concepts avancés de GraphQL."
+              },
+              {
+                "id": "fs-3-3-2",
+                "title": "API REST vs GraphQL",
+                "content": "Comparer les approches REST et GraphQL."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "fs-3-4-1",
+                "title": "Sécurité des API",
+                "content": "Implémenter des mesures de sécurité dans les API."
+              },
+              {
+                "id": "fs-3-4-2",
+                "title": "Rate Limiting et CORS",
+                "content": "Configurer des règles de Rate Limiting et gérer CORS."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "fs-3-5-1",
+                "title": "Projet final Fullstack",
+                "content": "Développer un projet Fullstack complet."
+              },
+              {
+                "id": "fs-3-5-2",
+                "title": "Présentation du projet",
+                "content": "Présenter et documenter le projet développé."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Dev": [
+      {
+        "week": "Semaine 1",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "dev-1-1-1",
+                "title": "Fondamentaux du Développement",
+                "content": "Comprendre les principes de base du développement logiciel."
+              },
+              {
+                "id": "dev-1-1-2",
+                "title": "Outils du Développeur",
+                "content": "Introduction aux principaux outils utilisés par les développeurs."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "dev-1-2-1",
+                "title": "Versioning avec Git",
+                "content": "Utiliser Git pour le contrôle de version."
+              },
+              {
+                "id": "dev-1-2-2",
+                "title": "GitHub et GitLab",
+                "content": "Collaborer avec d'autres développeurs sur GitHub et GitLab."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "dev-1-3-1",
+                "title": "Programmation Orientée Objet",
+                "content": "Apprendre les concepts de la POO."
+              },
+              {
+                "id": "dev-1-3-2",
+                "title": "Design Patterns",
+                "content": "Explorer les principaux design patterns en développement."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "dev-1-4-1",
+                "title": "Refactoring",
+                "content": "Techniques pour améliorer le code existant."
+              },
+              {
+                "id": "dev-1-4-2",
+                "title": "Code Review",
+                "content": "Comprendre l'importance des revues de code."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "dev-1-5-1",
+                "title": "Test-Driven Development (TDD)",
+                "content": "Introduction au développement piloté par les tests."
+              },
+              {
+                "id": "dev-1-5-2",
+                "title": "Tests Unitaires",
+                "content": "Écrire des tests unitaires efficaces."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 2",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "dev-2-1-1",
+                "title": "Bases de données NoSQL",
+                "content": "Introduction aux bases de données NoSQL."
+              },
+              {
+                "id": "dev-2-1-2",
+                "title": "MongoDB",
+                "content": "Utiliser MongoDB pour stocker des données non structurées."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "dev-2-2-1",
+                "title": "API RESTful",
+                "content": "Créer et consommer des API RESTful."
+              },
+              {
+                "id": "dev-2-2-2",
+                "title": "Sécurisation des API",
+                "content": "Implémenter des mesures de sécurité pour les API."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "dev-2-3-1",
+                "title": "Microservices",
+                "content": "Introduction aux architectures microservices."
+              },
+              {
+                "id": "dev-2-3-2",
+                "title": "Communication entre microservices",
+                "content": "Mettre en place la communication entre microservices."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "dev-2-4-1",
+                "title": "CI/CD",
+                "content": "Configurer des pipelines d'intégration et de déploiement continus."
+              },
+              {
+                "id": "dev-2-4-2",
+                "title": "Déploiement sur le Cloud",
+                "content": "Déployer des applications sur les services cloud comme AWS, GCP, etc."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "dev-2-5-1",
+                "title": "Monitorage et Logging",
+                "content": "Mettre en place des systèmes de monitorage et de logging."
+              },
+              {
+                "id": "dev-2-5-2",
+                "title": "Analyse des performances",
+                "content": "Analyser et améliorer les performances des applications."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 3",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "dev-3-1-1",
+                "title": "Introduction à DevOps",
+                "content": "Découvrir les principes et pratiques DevOps."
+              },
+              {
+                "id": "dev-3-1-2",
+                "title": "Infrastructure as Code",
+                "content": "Utiliser des outils comme Terraform pour gérer l'infrastructure."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "dev-3-2-1",
+                "title": "Automatisation des Tests",
+                "content": "Automatiser les tests pour une meilleure qualité du code."
+              },
+              {
+                "id": "dev-3-2-2",
+                "title": "Tests de Performance",
+                "content": "Effectuer des tests de performance sur vos applications."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "dev-3-3-1",
+                "title": "Gestion des Événements en Temps Réel",
+                "content": "Utiliser WebSockets et autres technologies pour les événements en temps réel."
+              },
+              {
+                "id": "dev-3-3-2",
+                "title": "Message Brokers",
+                "content": "Intégrer des systèmes comme RabbitMQ pour la gestion des messages."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "dev-3-4-1",
+                "title": "Conteneurisation avec Docker",
+                "content": "Conteneuriser les applications avec Docker."
+              },
+              {
+                "id": "dev-3-4-2",
+                "title": "Orchestration avec Kubernetes",
+                "content": "Orchestrer les conteneurs avec Kubernetes."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "dev-3-5-1",
+                "title": "Projet Final Dev",
+                "content": "Développer et déployer une application complète en suivant les pratiques apprises."
+              },
+              {
+                "id": "dev-3-5-2",
+                "title": "Présentation du Projet",
+                "content": "Préparer et présenter le projet final."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DevPlus": [
+      {
+        "week": "Semaine 1",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "devplus-1-1-1",
+                "title": "Approfondissement des concepts Dev",
+                "content": "Revue des concepts avancés abordés dans le module Dev."
+              },
+              {
+                "id": "devplus-1-1-2",
+                "title": "Architecture Logicielle",
+                "content": "Concevoir des architectures logicielles robustes."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "devplus-1-2-1",
+                "title": "Scalabilité",
+                "content": "Concevoir des applications scalables."
+              },
+              {
+                "id": "devplus-1-2-2",
+                "title": "Caching",
+                "content": "Utiliser des stratégies de caching pour améliorer les performances."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "devplus-1-3-1",
+                "title": "Sécurité Avancée",
+                "content": "Implémenter des mesures de sécurité avancées dans les applications."
+              },
+              {
+                "id": "devplus-1-3-2",
+                "title": "Cryptographie",
+                "content": "Utiliser des techniques de cryptographie pour sécuriser les données."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "devplus-1-4-1",
+                "title": "Gestion des Événements Complexes",
+                "content": "Mettre en place des architectures événementielles."
+              },
+              {
+                "id": "devplus-1-4-2",
+                "title": "CQRS et Event Sourcing",
+                "content": "Explorer les modèles CQRS et Event Sourcing."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "devplus-1-5-1",
+                "title": "Optimisation des Performances",
+                "content": "Techniques avancées pour optimiser les performances des applications."
+              },
+              {
+                "id": "devplus-1-5-2",
+                "title": "Profilage et Monitoring",
+                "content": "Utiliser des outils de profilage et de monitoring pour diagnostiquer les problèmes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 2",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "devplus-2-1-1",
+                "title": "Microservices Avancés",
+                "content": "Développer des microservices avancés et les déployer à grande échelle."
+              },
+              {
+                "id": "devplus-2-1-2",
+                "title": "Gestion de la Résilience",
+                "content": "Gérer la résilience et la tolérance aux pannes dans les microservices."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "devplus-2-2-1",
+                "title": "Orchestration avec Kubernetes Avancé",
+                "content": "Orchestrer des microservices avec Kubernetes."
+              },
+              {
+                "id": "devplus-2-2-2",
+                "title": "Service Mesh",
+                "content": "Gérer les communications entre microservices avec un service mesh."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "devplus-2-3-1",
+                "title": "Sécurité dans Kubernetes",
+                "content": "Apprendre à sécuriser les déploiements Kubernetes."
+              },
+              {
+                "id": "devplus-2-3-2",
+                "title": "Audit et Conformité",
+                "content": "Mettre en place des stratégies d'audit et de conformité."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "devplus-2-4-1",
+                "title": "Observabilité",
+                "content": "Implémenter des systèmes d'observabilité pour surveiller les microservices."
+              },
+              {
+                "id": "devplus-2-4-2",
+                "title": "Logging et Tracing",
+                "content": "Mettre en place du logging et du tracing distribués."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "devplus-2-5-1",
+                "title": "Projet Final Dev++",
+                "content": "Développer un projet avancé en utilisant les concepts appris."
+              },
+              {
+                "id": "devplus-2-5-2",
+                "title": "Présentation du Projet",
+                "content": "Présenter le projet final et ses défis techniques."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "week": "Semaine 3",
+        "days": [
+          {
+            "day": "Lundi",
+            "resources": [
+              {
+                "id": "devplus-3-1-1",
+                "title": "Optimisation des Bases de Données",
+                "content": "Techniques avancées pour optimiser les performances des bases de données."
+              },
+              {
+                "id": "devplus-3-1-2",
+                "title": "Partitionnement et Sharding",
+                "content": "Apprendre le partitionnement et le sharding des bases de données."
+              }
+            ]
+          },
+          {
+            "day": "Mardi",
+            "resources": [
+              {
+                "id": "devplus-3-2-1",
+                "title": "Data Warehousing",
+                "content": "Concevoir des entrepôts de données pour le Big Data."
+              },
+              {
+                "id": "devplus-3-2-2",
+                "title": "ETL Avancé",
+                "content": "Mettre en place des processus ETL efficaces et optimisés."
+              }
+            ]
+          },
+          {
+            "day": "Mercredi",
+            "resources": [
+              {
+                "id": "devplus-3-3-1",
+                "title": "Big Data",
+                "content": "Introduction aux concepts et outils du Big Data."
+              },
+              {
+                "id": "devplus-3-3-2",
+                "title": "Traitement Distribué",
+                "content": "Utiliser des frameworks comme Apache Spark pour le traitement distribué."
+              }
+            ]
+          },
+          {
+            "day": "Jeudi",
+            "resources": [
+              {
+                "id": "devplus-3-4-1",
+                "title": "Machine Learning Introduction",
+                "content": "Comprendre les bases du Machine Learning."
+              },
+              {
+                "id": "devplus-3-4-2",
+                "title": "Implémentation de Modèles",
+                "content": "Développer et entraîner des modèles de Machine Learning."
+              }
+            ]
+          },
+          {
+            "day": "Vendredi",
+            "resources": [
+              {
+                "id": "devplus-3-5-1",
+                "title": "MLOps",
+                "content": "Automatiser le déploiement et la gestion des modèles de Machine Learning."
+              },
+              {
+                "id": "devplus-3-5-2",
+                "title": "Présentation du Projet Final",
+                "content": "Présenter le projet final intégrant tous les concepts Dev++."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}  
